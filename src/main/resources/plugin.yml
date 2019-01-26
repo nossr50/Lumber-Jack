@@ -1,0 +1,8 @@
+name: ${projectNameVar}
+main: com.gmail.nossr50.lumberjack.LumberJack
+description: Adds bonuses to vanilla gameplay involving trees
+version: ${project.version}
+author: ${projectAuthor}
+website: ${projectWebsite}
+load: STARTUP
+api-version: 1.13
